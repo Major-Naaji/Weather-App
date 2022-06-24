@@ -3,7 +3,7 @@
  ## By Major Naaji
  ## Description
 
- <p>This project is a web application for a weather app that shows the weather update and the real time.Weather forecast is crucial since it helps to detemine future climate changes.With the use of latitude we can determine the probability of snow and hail reaching the surface.We are able to ientify the thermal energy from the sun that is exposed to a region.</p>
+ <p>This project is a web application for a weather app that shows the weather update and the real time.Weather forecast is crucial since it helps to detemine future climate changes.With the use of latitude we can determine the probability of snow and hail reaching the surface.We are able to identify the thermal energy from the sun that is exposed to a region.</p>
 
 
 
@@ -12,7 +12,7 @@
 As a user of the application,you will be able to :
 
 1. See the weather update
-1. see the real-time and date
+1. See the real-time and date
 
  ###  Requirements
 
